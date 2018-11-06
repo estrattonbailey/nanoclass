@@ -1,6 +1,6 @@
 {
   "name": "nanoclass",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "84 byte classname utility.",
   "source": "index.js",
   "module": "dist/nanoclass.es.js",
