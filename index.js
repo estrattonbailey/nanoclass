@@ -1,3 +1,1 @@
-export default function cx (c) {
-  return c.filter(Boolean).join(' ')
-}
+export default c=>c.filter(c=>!!c).join(' ')
